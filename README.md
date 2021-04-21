@@ -9,5 +9,3 @@ I'm a 👨🏻‍💻 student and 🎷 player from germany.
 ## 📖 Languages
 
 <img src="https://img.shields.io/badge/Python-intermediate-orange?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/C%23-intermediate-orange?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/Latex-beginner-brightgreen?style=for-the-badge&logo=latex"/> <img src="https://img.shields.io/badge/Dart-beginner-brightgreen?style=for-the-badge&logo=dart"/>
-
-## 🎶 Currently listening too
