@@ -16,3 +16,5 @@ I'm a 👨🏻‍💻 student and 🎷 player from germany.
 * Algorithms & Datastructures
 * Coding Competitions
 * (REST) API Design
+* Jazz, Funk & Fusion
+* Music theory
