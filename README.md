@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there, I'm Nik 👋🏻!
 
-<!--
-**nikstuckenbrock/nikstuckenbrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 👨🏻‍💻 student and 🎷 player from germany.
 
-Here are some ideas to get you started:
+## 🛠 Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Flask-beginner-brightgreen?style=for-the-badge&logo=flask"/> <img src="https://img.shields.io/badge/Flutter-beginner-brightgreen?style=for-the-badge&logo=flutter"/>
+
+## 📖 Languages
+
+<img src="https://img.shields.io/badge/Python-intermediate-orange?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/C%23-intermediate-orange?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/Latex-beginner-brightgreen?style=for-the-badge&logo=latex"/> <img src="https://img.shields.io/badge/Dart-beginner-brightgreen?style=for-the-badge&logo=dart"/>
+
+## 🎶 Currently listening too
